@@ -8,7 +8,8 @@ ESP-IDF is the official development framework for the [ESP32](https://espressif.
 
 # Quick Reference
 
-##Build Environment
+## Build Environment
+
 Please use `IAR For ARM V8.10.1.12863` as the development environment
 
 ## Realtek Image Tool
