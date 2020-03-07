@@ -1,7 +1,7 @@
 # Realtek 8710BX WIFI Chip Firmware
 
-ESP-IDF is the official development framework for the [ESP32](https://espressif.com/en/products/hardware/esp32/overview) chip.
 ### Release Notes
+
 | Revision        | Description   |  Date  |  Originator  |
 | :----:   | :-----:  | :----:  |:----:  |
 | Beta/V1.0     | First draftrelese |   2020.03.07     |   Chenyu Hu     |
@@ -27,4 +27,8 @@ Package WIFI and Bluetooth firmware.
 
 ## Documentation
 
-Click here
+[Click here](https://espressif.com/en/products/hardware/esp32/overview)
+
+
+
+
